@@ -67,6 +67,7 @@ A decentralized crowdfunding platform on Ethereum that supports milestone-based 
 - The contract requires a minimum number of approvers to validate milestones, so if there are not enough approvers, the milestones cannot be validated.
 - The contract is designed for use cases where funds are disbursed after specific milestones are reached. It is not suitable for campaigns without milestone validation.
 
-## License
+## Photos
 
-MIT License. See [LICENSE](LICENSE) for more information.
+![WhatsApp Image 2025-01-11 at 05 58 36_153f43de](https://github.com/user-attachments/assets/4e3f03d0-671e-4ef1-94f4-ae3558c308a7)
+
